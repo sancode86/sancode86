@@ -4,6 +4,7 @@
 - 🚀 Will be learning ASAP: AngularJS, VueJs, Docker, AWS, FRESH, BUN, TensorFlow, Solid, Nuxt, Nextjs, Svelte, VueJS, RemixJs and Rust.
 - 📫 How to reach me: santiagosuarez86@gmail.com
 
+Currently making APPs for clients, and developing a FPS Multiplayer 3D Browser Game (just for fun) 😀
 
 I go to sleep thinking about programming, I wake up thinking about code.
 
